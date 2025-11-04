@@ -1,4 +1,4 @@
-## Hi there, I'm Faqih Al Bashori👋 
+## Hi there, I'm Faqih Al Bashori😁👋 
 I'm an Informatics student passionate about AI, automation, and clean code. Always learning, always building.
 
 ## Tools ⚙️🛠️
