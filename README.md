@@ -43,7 +43,7 @@
 
 <h2 align="center">📊 My Statistic</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenVer-Base&show_icons=true&theme=tokyonight&locale=id&hide_border=true&count_private=true&include_all_commits=true" alt="Statistik GitHub Faqih" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KenVer-Base&show_icons=true&theme=tokyonight&locale=id&hide_border=true&count_private=true&include_all_commits=true" alt="Statistik GitHub" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenVer-Base&layout=compact&theme=tokyonight&locale=id&hide_border=true" alt="Bahasa Top Faqih" />
 </p>
