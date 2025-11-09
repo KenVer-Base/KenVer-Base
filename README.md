@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Faqih Al Bashori😁👋</h1>
-<h3 align="center">I'm an Informatics student passionate about AI, automation, and clean code. Always learning, always building.</h3>
+<h3 align="center">I am an Informatics student with a strong interest in web development</h3>
 
 ---
 
