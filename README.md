@@ -34,9 +34,9 @@
 <h2 align="center">📊 Statistik GitHub Saya</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KenVer Base&show_icons=true&theme=tokyonight&locale=id&hide_border=true&count_private=true&include_all_commits=true" alt="Statistik GitHub Faqih" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KenVer-Base&show_icons=true&theme=tokyonight&locale=id&hide_border=true&count_private=true&include_all_commits=true" alt="Statistik GitHub Faqih" />
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenVer Base&layout=compact&theme=tokyonight&locale=id&hide_border=true" alt="Bahasa Top Faqih" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenVer-Base&layout=compact&theme=tokyonight&locale=id&hide_border=true" alt="Bahasa Top Faqih" />
 </p>
 
 ---
