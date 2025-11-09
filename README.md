@@ -48,16 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenVer-Base&layout=compact&theme=tokyonight&locale=id&hide_border=true" alt="Bahasa Top Faqih" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KenVer-Base&theme=tokyonight&row=1" alt="Trophy GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/snake?username=KenVer-Base&theme=tokyonight" alt="Snake animation" />
-</p>
-
 ---
 
 <h2 align="center">📬 Social Media</h2>
