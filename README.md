@@ -1,17 +1,6 @@
 <h1 align="center">Hi there, I'm Faqih Al Bashori😁👋</h1>
 <h3 align="center">I'm an Informatics student passionate about AI, automation, and clean code. Always learning, always building.</h3>
 
-<br>
-
-<ul>
-    <li>🌱 Saat ini saya sedang mendalami <b>[Teknologi/Topik, misal: Machine Learning]</b></li>
-    <li>🔭 Saat ini saya sedang mengerjakan <b>[Nama Proyek, misal: Aplikasi web dengan Laravel & React]</b></li>
-    <li>👯 Saya terbuka untuk berkolaborasi di proyek <b>[Jenis Proyek, misal: Open Source berbasis AI]</b></li>
-    <li>💬 Tanya saya tentang <b>Python, PHP, atau Pengembangan Web</b></li>
-</ul>
-
-<br>
-
 ---
 
 <h2 align="center">Tools ⚙️🛠️</h2>
@@ -31,7 +20,7 @@
 
 ---
 
-<h2 align="center">📊 Statistik GitHub Saya</h2>
+<h2 align="center">📊 My Statistic</h2>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KenVer-Base&show_icons=true&theme=tokyonight&locale=id&hide_border=true&count_private=true&include_all_commits=true" alt="Statistik GitHub Faqih" />
@@ -41,7 +30,7 @@
 
 ---
 
-<h2 align="center">📬 Mari Terhubung</h2>
+<h2 align="center">📬 Social Media</h2>
 
 <p align="center">
     <a href="https://linkedin.com/in/faqihalbashori/">
