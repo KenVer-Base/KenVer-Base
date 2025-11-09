@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%20there!&fontSize=70" />
 </p>
 
-<h1 align="center">Holaaa😁, I'm Faqih Al Bashori <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm Faqih Al Bashori <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am an Informatics student with a strong interest in web development</h3>
 
 ---
@@ -29,18 +29,15 @@
 
 ---
 
-<h2 align="center">🎨 Design Tools</h2>
+<h2 align="center">🎨 Creative & Editing Tools</h2>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="Canva"/></a>
-  </p>
-
----
-
-<h2 align="center">🎬 Editing Tools</h2>
-<p align="center">
-  untuk memunculkan badge jika kamu menggunakannya. 
-  -->
-  </p>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white" alt="Figma"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" alt="Canva"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lightroom-%2331A8FF.svg?logo=adobe-lightroom&logoColor=white" alt="Lightroom"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Premiere%20Pro-%23EA77FF.svg?logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CapCut-%23000000.svg?logo=capcut&logoColor=white" alt="CapCut"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Alight%20Motion-%23000000.svg?logo=alightmotion&logoColor=white" alt="Alight Motion"/></a>
+</p>
 
 ---
 
@@ -49,6 +46,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KenVer-Base&show_icons=true&theme=tokyonight&locale=id&hide_border=true&count_private=true&include_all_commits=true" alt="Statistik GitHub Faqih" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenVer-Base&layout=compact&theme=tokyonight&locale=id&hide_border=true" alt="Bahasa Top Faqih" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KenVer-Base&theme=tokyonight&row=1" alt="Trophy GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/snake?username=KenVer-Base&theme=tokyonight" alt="Snake animation" />
 </p>
 
 ---
