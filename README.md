@@ -34,9 +34,9 @@
 <h2 align="center">📊 Statistik GitHub Saya</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[KenVer-Base]&show_icons=true&theme=tokyonight&locale=id&hide_border=true&count_private=true&include_all_commits=true" alt="Statistik GitHub Faqih" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KenVer Base&show_icons=true&theme=tokyonight&locale=id&hide_border=true&count_private=true&include_all_commits=true" alt="Statistik GitHub Faqih" />
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KenVer-Base]&layout=compact&theme=tokyonight&locale=id&hide_border=true" alt="Bahasa Top Faqih" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenVer Base&layout=compact&theme=tokyonight&locale=id&hide_border=true" alt="Bahasa Top Faqih" />
 </p>
 
 ---
@@ -44,13 +44,13 @@
 <h2 align="center">📬 Mari Terhubung</h2>
 
 <p align="center">
-    <a href="https://linkedin.com/in/[USERNAME_LINKEDIN_KAMU]">
+    <a href="https://linkedin.com/in/faqihalbashori/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://instagram.com/[USERNAME_INSTAGRAM_KAMU]">
+    <a href="https://instagram.com/q1hh_">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="mailto:[EMAIL_KAMU]">
+    <a href="mailto:faqihpmkt66@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
 </p>
