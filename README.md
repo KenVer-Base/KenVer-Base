@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%20there!&fontSize=70" />
-</p>
-
 <h1 align="center">Hi there, I'm Faqih Al Bashori <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am an Informatics student with a strong interest in web development</h3>
 
@@ -61,8 +57,4 @@
   <a href="mailto:faqihpmkt66@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer"/>
 </p>
