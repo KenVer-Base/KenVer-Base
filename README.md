@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Faqih Al Bashori <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">I am an Informatics student with a strong interest in web development</h3>
+<h3 align="center">I am a Fullstack developer</h3>
 
 ---
 
